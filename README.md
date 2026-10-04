@@ -7,7 +7,7 @@ Created by **Hossam Elshahaby** for **Junction X Vaasa 2026**, addressing the AB
 ## Links
 
 - [Live application](https://snap-and-see-pro.lovable.app/)
-- [Pitch video](https://youtu.be/cZ838gP3nis)
+- [Pitch video](https://youtu.be/i0IXywNXkgk)
 
 ## Project description
 
